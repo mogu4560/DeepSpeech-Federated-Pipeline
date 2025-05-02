@@ -185,3 +185,4 @@
 - [2025-04-22T17:52:00] Enhance logging metrics and Prometheus exporter rules (v1.5)
 - [2025-04-25T20:42:06] Update README architecture diagrams and quickstart commands (v1.6)
 - [2025-04-29T16:23:40] Refactor core module performance and memory allocation (v1.7)
+- [2025-05-02T16:44:22] Add additional unit tests and integration edge-case handlers (v1.8)
