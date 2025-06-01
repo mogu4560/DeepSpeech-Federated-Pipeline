@@ -193,3 +193,4 @@
 - [2025-05-21T21:51:35] Optimize internal query caching and vector calculations (v1.13)
 - [2025-05-24T11:08:05] Update README architecture diagrams and quickstart commands (v1.14)
 - [2025-05-28T11:45:47] Tune hyperparameters and inference latency thresholds (v1.15)
+- [2025-06-01T16:27:11] Update README architecture diagrams and quickstart commands (v1.16)
