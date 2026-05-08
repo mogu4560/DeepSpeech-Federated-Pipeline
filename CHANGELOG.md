@@ -209,3 +209,4 @@
 - [2025-07-14T15:28:33] Add additional unit tests and integration edge-case handlers (v1.29)
 - [2025-07-18T12:32:50] Fix minor formatting and docstring type hints (v1.30)
 - [2026-05-06T15:49:11] Optimize internal query caching and vector calculations (v1.31)
+- [2026-05-08T14:31:09] Add benchmark profile generator and validation dataset (v1.32)
