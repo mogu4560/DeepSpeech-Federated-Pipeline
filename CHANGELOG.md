@@ -215,3 +215,4 @@
 - [2026-05-15T11:35:10] Tune hyperparameters and inference latency thresholds (v1.35)
 - [2026-05-18T13:41:12] Tune hyperparameters and inference latency thresholds (v1.36)
 - [2026-05-20T12:43:26] Update README architecture diagrams and quickstart commands (v1.37)
+- [2026-05-22T16:42:20] Add additional unit tests and integration edge-case handlers (v1.38)
